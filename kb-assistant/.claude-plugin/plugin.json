@@ -1,0 +1,9 @@
+{
+  "name": "kb-assistant",
+  "version": "1.0.0",
+  "description": "Personal knowledge base assistant. Ingests GitHub repos (code, config files, issues, discussions) and web articles into a local Obsidian vault, then answers questions about the content. Includes ingest, update, and lint skills.",
+  "author": {
+    "name": "FA"
+  },
+  "keywords": ["knowledge-base", "obsidian", "github", "wiki", "rag"]
+}

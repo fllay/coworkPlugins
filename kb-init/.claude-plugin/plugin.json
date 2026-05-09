@@ -1,0 +1,9 @@
+{
+  "name": "kb-init",
+  "version": "1.0.0",
+  "description": "Autonomous agent that builds a complete knowledge base for any GitHub or GitLab repository in one shot — wiki ingestion, graphify source code analysis, CODE_ARCHITECTURE.md, interactive graph, and MCP server setup.",
+  "author": {
+    "name": "FA"
+  },
+  "keywords": ["knowledge-base", "graphify", "github", "architecture", "automation"]
+}
